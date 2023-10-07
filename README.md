@@ -23,12 +23,16 @@ Because of current ZMK limitations, Dao44 keymap is in the branch [dao44](https:
 
 ## FAQ
 
-- [FAQ](#faq)
-  - [How to change the keymap?](#how-to-change-the-keymap)
-  - [How to flash the keyboard?](#how-to-flash-the-keyboard)
-  - [How to pair halves?](#how-to-pair-halves)
-  - [Problems](#problems)
-    - [I'm getting File Transfer Error after copying firmware to the keyboard](#im-getting-file-transfer-error-after-copying-firmware-to-the-keyboard)
+- [ZMK Firmware for Dao keyboard](#zmk-firmware-for-dao-keyboard)
+  - [Default keymap](#default-keymap)
+    - [Dao42](#dao42)
+    - [Dao44](#dao44)
+  - [FAQ](#faq)
+    - [How to change the keymap?](#how-to-change-the-keymap)
+    - [How to flash the keyboard?](#how-to-flash-the-keyboard)
+    - [How to pair halves?](#how-to-pair-halves)
+    - [Problems](#problems)
+      - [I'm getting File Transfer Error after copying firmware to the keyboard](#im-getting-file-transfer-error-after-copying-firmware-to-the-keyboard)
 
 ### How to change the keymap?
 
@@ -61,3 +65,4 @@ Because of current ZMK limitations, Dao44 keymap is in the branch [dao44](https:
 #### I'm getting File Transfer Error after copying firmware to the keyboard
 
 It's OK. Proof: https://zmk.dev/docs/troubleshooting#file-transfer-error
+
